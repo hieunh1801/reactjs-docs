@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactjs_docs=self.webpackChunkreactjs_docs||[]).push([[1180],{2311:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/reactjs-docs/blog/tags/hola","allTagsPath":"/reactjs-docs/blog/tags","count":1,"unlisted":false}')}}]);
