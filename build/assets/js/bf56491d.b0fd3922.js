@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreactjs_docs=self.webpackChunkreactjs_docs||[]).push([[7436],{9256:s=>{s.exports=JSON.parse('{"permalink":"/reactjs-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
